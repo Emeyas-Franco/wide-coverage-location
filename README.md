@@ -2,4 +2,4 @@
 
 1º Projeto desenvolvido no DevClub.
 
-<img src="" />
+<img src="./assets/img/img.svg" width="400px" />
